@@ -1,4 +1,4 @@
-<mxfile modified="2022-09-28T09:22:23.641Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="rTcNcgepH2RoGzxcXZF4" version="20.3.7" type="github" pages="3">
+<mxfile modified="2022-09-28T09:31:19.241Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hQD1l-k3fPOOQ1jiHPiu" version="20.3.7" type="github" pages="3">
   <diagram id="5N7a6OaGEV1y8yAyVuh0" name="architecture physique">
     <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="9C_wFnc-zngYFwpQrnVu" name="COUCHE LOGICIEL">
+  <diagram id="9C_wFnc-zngYFwpQrnVu" name="APPLICATIFS">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
