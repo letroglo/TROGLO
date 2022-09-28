@@ -1,6 +1,6 @@
-<mxfile modified="2022-09-28T09:42:44.017Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="PDIEil6RCJNZlnhoP4-X" version="20.3.7" type="github" pages="3">
+<mxfile modified="2022-09-28T09:46:09.936Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="pVzltlgxd7M-Sv7UG_Bn" version="20.3.7" type="github" pages="3">
   <diagram id="5N7a6OaGEV1y8yAyVuh0" name="architecture physique">
-    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9C_wFnc-zngYFwpQrnVu" name="ECOSYSTEME APPLICATIFS">
-    <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,11 +236,17 @@
         <mxCell id="wiSvhLXK2eyafiUSCVex-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Ecosystème applicatifs&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="255" y="-10" width="290" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qH6fMOL5PzUIfKswSad8-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.mail2;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="439.9" y="205" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qH6fMOL5PzUIfKswSad8-2" value="email" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="444.99999999999994" y="240" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="9NHcmH-P7IhNyR6E9OVo" name="VISION SERVEUR">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
