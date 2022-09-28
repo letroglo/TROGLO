@@ -1,4 +1,4 @@
-<mxfile modified="2022-09-28T09:06:35.455Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="aeu8YVguy5QtdulTp89N" version="20.3.7" type="github" pages="3">
+<mxfile modified="2022-09-28T09:08:02.359Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8jiqMR7PCl9rpCZatpKl" version="20.3.7" type="github" pages="3">
   <diagram id="5N7a6OaGEV1y8yAyVuh0" name="architecture physique">
     <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,6 +199,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="r9MJ-9ZDrGW6Ls-avdhK-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="230" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="r9MJ-9ZDrGW6Ls-avdhK-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="230" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="r9MJ-9ZDrGW6Ls-avdhK-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="180" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="LDgTxCouNpYHCXDFSzI0-3" value="HARDWARE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="160" height="40" as="geometry" />
         </mxCell>
