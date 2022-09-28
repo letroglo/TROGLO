@@ -1,29 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T08:06:23.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="b3h1zdqSA-oOSpsy1_0e" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-28T08:25:56.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="kG-0MdTegv3oU9KIrUu9" version="20.3.7" type="github">
   <diagram id="HjvhdA-7fz5RseLLQ_8C" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="h526tNBvWRF07IJGmsLl-7" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Hyperviseur 2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="280" y="200" width="240" height="240" as="geometry" />
+        <mxCell id="h526tNBvWRF07IJGmsLl-7" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Hyperviseur 2" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="280" y="320" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="h526tNBvWRF07IJGmsLl-6" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Hyperviseur 3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="600" y="200" width="160" height="160" as="geometry" />
+        <mxCell id="h526tNBvWRF07IJGmsLl-6" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Hyperviseur 3" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="600" y="320" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="h526tNBvWRF07IJGmsLl-2" value="TEST" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="650" y="240" width="60" height="80" as="geometry" />
+        <mxCell id="h526tNBvWRF07IJGmsLl-2" value="TEST" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="650" y="360" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h526tNBvWRF07IJGmsLl-3" value="PPROD" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="370" y="235" width="60" height="80" as="geometry" />
+        <mxCell id="h526tNBvWRF07IJGmsLl-3" value="PPROD" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="370" y="355" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h526tNBvWRF07IJGmsLl-5" value="isoPROD" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="370" y="325" width="60" height="80" as="geometry" />
+        <mxCell id="h526tNBvWRF07IJGmsLl-5" value="isoPROD" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="370" y="445" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h526tNBvWRF07IJGmsLl-8" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Hyperviseur 1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="160" height="160" as="geometry" />
+        <mxCell id="h526tNBvWRF07IJGmsLl-8" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Hyperviseur 1" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="40" y="320" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="h526tNBvWRF07IJGmsLl-9" value="PROD" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="90" y="240" width="60" height="80" as="geometry" />
+        <mxCell id="h526tNBvWRF07IJGmsLl-9" value="PROD" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="90" y="360" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yvlKk7W-9jikgLxLAOFz-2" value="SSO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="760" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
