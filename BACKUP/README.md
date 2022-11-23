@@ -31,8 +31,6 @@ sudo reboot now
 - Ajout des utilisateurs
 ``` SHELL
 adduser mxm
-adduser bbrun
-adduser jarnaud
 ```
 
 ## SSH
