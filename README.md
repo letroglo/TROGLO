@@ -1,2 +1,2 @@
 # TROGLO
-Projet magasin TROGLO Tours, commission informatique
+Projet supermarché TROGLO Tours, commission informatique
