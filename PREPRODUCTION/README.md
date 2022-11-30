@@ -30,6 +30,7 @@ sudo usermod -aG sudo jarnaud
 - Changer domaine principale
 ```bash
 yunohost domain main-domain -n portail-pp.le-troglo.fr
+```
 
 ## Crontab
 ```SHELL
