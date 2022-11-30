@@ -95,11 +95,10 @@ apt -y install rsnapshot
 `/etc/rsnapshot.conf`
 
 ``` SHELL
-
-retain    alpha    6
-retain    beta     7
-retain    gamma    4
-retain    delta    3
+retain    hourly    4
+retain    daily     7
+retain    weekly    4
+retain    monthly   3
 
 snapshot_root    /backup
 
@@ -108,6 +107,8 @@ cmd_ssh          /usr/bin/ssh
 ssh_args         -p 2046
 ```
 
+## Crontab
+0 */6 * * * root /usr/bin/rsnapshot hourly
 
 ## Sécurisation
 
@@ -136,6 +137,7 @@ cscli decisions list
 ``` SHELL
 apt install crowdsec-firewall-bouncer-iptables
 ```
+
 - Installation de crowdsec
 - Installation du MFA
 - Fichier IPTABLES-Persistent
