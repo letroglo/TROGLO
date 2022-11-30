@@ -108,7 +108,9 @@ ssh_args         -p 2046
 ```
 
 ## Crontab
-0 */6 * * * root /usr/bin/rsnapshot hourly
+```SHELL
+0 */6 * * * /usr/bin/rsnapshot hourly
+```
 
 ## Sécurisation
 
